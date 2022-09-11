@@ -1,0 +1,11 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    width: 1440px;
+    height: 576px;
+    background-color: #F0FFF0;
+}
